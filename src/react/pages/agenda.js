@@ -139,7 +139,7 @@ class InternetExplorer extends React.Component {
           Internet Explorer:
         </p>
         <p>
-          <a className="btn content-subtitle link-style" href={ie}>
+          <a className="btn content-subtitle link-style" href={ie} download>
             Baixar atalho para o Internet Explorer
           </a>
         </p>
