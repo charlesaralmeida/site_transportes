@@ -76,7 +76,7 @@ const LoginHandler = () => {
               src={user.photo}
               className="nav-photo-login"
               alt="user_picture"
-              referrerpolicy="no-referrer"
+              referrerPolicy="no-referrer"
             />
             {user.isLogged ? (
               <div className="nav-photo-login-tooltiptext">
